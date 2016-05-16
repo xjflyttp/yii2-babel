@@ -1,0 +1,21 @@
+{
+    "name": "xj/yii2-babel",
+    "description": "yii2-babel",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "bower-asset/babel": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "xj\\babel\\": ""
+        }
+    }
+}
